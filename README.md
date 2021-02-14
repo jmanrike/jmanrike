@@ -1,10 +1,7 @@
-### Hi there 👋
 
-<!--
-**jmanrike/jmanrike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
--->
-
+## Hello, i am Jordi Manrique
+***
 ### WEB APP DEVELOPER STUDENT
 
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
